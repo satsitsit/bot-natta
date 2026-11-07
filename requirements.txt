@@ -1,0 +1,5 @@
+telethon
+py-tgcalls
+yt-dlp[default]
+pillow
+cryptg
